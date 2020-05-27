@@ -15,6 +15,10 @@ Also, I've made use of express as a scaling point. If in future this application
 ```
 
 ```
+Calendar have been kept open deliberately on selecting a date, so that you dont have to open the calendar again incase the selected date doesn't have any data. Hit 'ESC' to close it.
+```
+
+```
 **Only optimized for Chrome.**
 ```
 
