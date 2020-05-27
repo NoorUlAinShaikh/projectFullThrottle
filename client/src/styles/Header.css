@@ -1,0 +1,13 @@
+.ui.secondary.pointing.menu {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.46);
+}
+
+.ui.menu .item {
+  color: rgb(255, 255, 255) !important;
+  font-size: large !important;
+  font-family: "Kelly Slab";
+}
+
+a:active {
+  border-color: red !important;
+}
