@@ -16,4 +16,4 @@ export const BACK_TO_USERS = "Back to users";
 export const START_TIME = "Start Time";
 export const END_TIME = "End Time";
 export const DURATION = "Duration Stayed";
-export const NO_ACTIVITY_RECORD = "No known records of actvity on this day!";
+export const NO_ACTIVITY_RECORD = "No known records of activity on this day!";
