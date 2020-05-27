@@ -8,6 +8,8 @@ export const LANDING_BODY =
 
 /********** UsersList */
 export const ALL_AVAILABLE_USERS = "All Available Users";
+export const TIMEZONE = "Time Zone:";
+export const ACTIVITY_COUNT = "Activity Count:";
 
 /*********** User Activity */
 export const BACK_TO_USERS = "Back to users";

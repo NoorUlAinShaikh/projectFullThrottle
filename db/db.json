@@ -14,8 +14,88 @@
           "end_time": "Mar 1 2020 2:00PM"
         },
         {
-          "start_time": "Mar 16 2020  5:33PM",
+          "start_time": "Mar 16 2020 5:33PM",
           "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A4zDE",
+      "real_name": "Kevin Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 10 2020 1:33PM",
+          "end_time": "Feb 10 2020 1:54PM"
+        },
+        {
+          "start_time": "May 28 2020  10:11AM",
+          "end_time": "May 28 2020 3:00PM"
+        },
+        {
+          "start_time": "Jan 16 2020  5:43PM",
+          "end_time": "Jan 16 2020 8:08PM"
+        }
+      ]
+    },
+    {
+      "id": "W040A3IQS",
+      "real_name": "Stephan Salvatore",
+      "tz": "America/New_York",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 26 2020  5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "P040D3IQF",
+      "real_name": "Damon Salvatore",
+      "tz": "America/New_York",
+      "activity_periods": [
+        {
+          "start_time": "April 21 2020  10:33PM",
+          "end_time": "April 21 2020 11:54PM"
+        },
+        {
+          "start_time": "Jan 1 2020  11:11AM",
+          "end_time": "Jan 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Dec 16 2020  5:33PM",
+          "end_time": "Dec 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sept 16 2020  5:33PM",
+          "end_time": "Sept 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W040A3IQS",
+      "real_name": "Stephan Hawking",
+      "tz": "America/New_York",
+      "activity_periods": [
+        {
+          "start_time": "Feb 19 2020  1:33PM",
+          "end_time": "Feb 19 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 12 2020  11:11AM",
+          "end_time": "Mar 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 13 2020  5:33PM",
+          "end_time": "Mar 13 2020 8:02PM"
         }
       ]
     },
@@ -35,6 +115,10 @@
         {
           "start_time": "Mar 16 2020  5:33PM",
           "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020  5:33PM",
+          "end_time": "May 16 2020 8:02PM"
         }
       ]
     }
